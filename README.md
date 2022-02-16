@@ -30,8 +30,8 @@ const geoscientistBit = {
 
 ## :paperclip: Contacto:
 <span >
-<a href="https://www.linkedin.com/in/jhon-edison-muñoz-banguero/" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/linkedin-icon.png"> &nbsp;
-<a href="mailto:geosof03@gmail.com" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/gmail-icon%20green.png">
+<a href="https://www.linkedin.com/in/jhon-edison-muñoz-banguero/" ><img width="5%" src="https://user-images.githubusercontent.com/83843516/154183416-a908877b-cd94-4cc4-9bca-94bed4c40e10.png"> &nbsp;
+<a href="mailto:geosof03@gmail.com" ><img width="5%" src="https://user-images.githubusercontent.com/83843516/154182884-b0ab10cd-8bdf-4154-bdf6-ce8018d6a2bf.png">
 </span>
 
 ![Geoscientist-bit's GitHub stats](https://github-readme-stats.vercel.app/api?username=geoscientist-bit&show_icons=true&theme=radical)
