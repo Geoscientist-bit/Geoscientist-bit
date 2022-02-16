@@ -1,5 +1,6 @@
-## Hola mi nombre es Jhon Edison 👋
-<!--  ![Hi, I'm Jhon](https://github.com/WanCirone/wancirone/blob/main/assets/hi.gif) -->
+
+
+![ImagenGitRecortada](https://user-images.githubusercontent.com/83843516/154182064-b74ecc93-f4a9-4d14-b49a-70f3427a1c68.jpg)
 
 
 
