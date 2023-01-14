@@ -1,9 +1,17 @@
+<div id="header" align="center">
+   <h1>Hola!, Soy Jhon Edison </h1>  
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200" >
+  
+</div>
 
+<div id="badges"  align="center">
+  <img src="https://img.shields.io/badge/linkedIn-blue?logo=linkedin&logocolor=white&style=for-the-badge" margin-border="5px">
+  <img src="https://img.shields.io/badge/Gmail-white?logo=gmail&logocolor=white&style=for-the-badge" >
+  <p>Apasionado por la programación </p>
+</<div>  
+ 
 
-![ImagenGitRecortada](https://user-images.githubusercontent.com/83843516/154182064-b74ecc93-f4a9-4d14-b49a-70f3427a1c68.jpg)
-
-
-
+<div >
 ## 🟢 Acerca de mi en codigo
 ```javascript
 
@@ -26,6 +34,9 @@ const geoscientistBit = {
   Aspirations: ['AI', 'CloudComputing', 'MachineLearning', 'Web Development']
 }
 ```
+</div>
+
+
 
 
 ## :paperclip: Contacto:
@@ -35,8 +46,11 @@ const geoscientistBit = {
 </span>
 
 ![Geoscientist-bit's GitHub stats](https://github-readme-stats.vercel.app/api?username=geoscientist-bit&show_icons=true&theme=radical)
+ 
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geoscientist-bit&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Geoscientist-bit&theme=radical&mode=weekly)](https://git.io/streak-stats)
 
 <!--
 **Geoscientist-bit/Geoscientist-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
