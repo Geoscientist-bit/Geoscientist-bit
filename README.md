@@ -13,7 +13,7 @@
   <p><i>Apasionado por la programación y las nuevas tecnologias, con el deseo de aumentar y mejorar mis conocimientos cada día. Soy una persona orientada hacia los resultados con pensamiento critico y trabajo en equipo <i/></p>
 </<div>  
  
-## 📽️ Acerca de mi en codigo
+## 👇 Acerca de mi en codigo
 <div >
 
 ```javascript
